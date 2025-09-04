@@ -1,11 +1,24 @@
+# 🌍 Travel App Interface Design
 
-  # Travel App Interface Design
+A modular, responsive travel app UI built with React, TypeScript, Tailwind CSS, and Radix UI components. Originally designed in [Figma](https://www.figma.com/design/ivCZqAHHi5mnvHEDzK83q6/Travel-App-Interface-Design).
 
-  This is a code bundle for Travel App Interface Design. The original project is available at https://www.figma.com/design/ivCZqAHHi5mnvHEDzK83q6/Travel-App-Interface-Design.
+## 🚀 Live Demo
 
-  ## Running the code
+[Click here to view the deployed site](https://akash-sharma8.github.io/Travel-app/)  
+> Replace `akash-sharma8` with your actual GitHub username.
 
-  Run `npm i` to install the dependencies.
+## 🛠️ Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
+- ⚛️ React + TypeScript
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🧩 Radix UI
+- 📊 Recharts
+- 🔐 Form validation with React Hook Form
+
+## 📦 Installation
+
+```bash
+git clone https://akash-sharma8.github.io/Travel-app/
+cd travel-app-ui
+npm install
